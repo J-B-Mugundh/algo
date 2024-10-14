@@ -5,7 +5,7 @@ Welcome to **Algo**, an open-source project that provides developers with algori
 
 ## Learn how to contribute
 
-[Watch the contribution video](Algo-Contribution-Video-Readme.mp4)
+[Watch the contribution video](https://youtu.be/_xSb-VBMfsE)
 
 
 <div align = "center">
